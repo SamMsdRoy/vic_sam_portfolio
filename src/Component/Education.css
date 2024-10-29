@@ -1,0 +1,21 @@
+@media only screen and (min-width:968px),screen and (max-height:400px) {
+  
+  .overflow-y{
+    color: aqua;
+    overflow:scroll;
+  }
+}
+
+
+@media only screen and (min-width: 768px) {
+  .education-page {
+    display: flex;
+    flex-direction: column;
+ 
+  }
+}
+.card-content-box {
+  justify-content: center;
+  align-items: center;
+}
+
